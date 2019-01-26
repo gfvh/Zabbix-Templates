@@ -1163,11 +1163,6 @@
             </discovery_rules>
             <httptests/>
             <macros/>
-            <templates>
-                <template>
-                    <name>Template Module ICMP Ping</name>
-                </template>
-            </templates>
             <screens/>
         </template>
     </templates>
