@@ -415,6 +415,13 @@
                             <description/>
                             <type>0</type>
                             <manual_close>1</manual_close>
+                            <dependencies>
+                                <dependency>
+                                    <name>{HOST.NAME} is unavailable by ICMP</name>
+                                    <expression>{HP Server Health Template:icmpping.max(#3)}=0</expression>
+                                    <recovery_expression/>
+                                </dependency>
+                            </dependencies>
                             <tags/>
                         </trigger_prototype>
                         <trigger_prototype>
@@ -609,6 +616,7 @@
                             <priority>4</priority>
                             <description/>
                             <type>0</type>
+                            <manual_close>1</manual_close>
                             <tags/>
                         </trigger_prototype>
                         <trigger_prototype>
@@ -624,6 +632,13 @@
                             <description/>
                             <type>0</type>
                             <manual_close>1</manual_close>
+                            <dependencies>
+                                <dependency>
+                                    <name>{HOST.NAME} is unavailable by ICMP</name>
+                                    <expression>{HP Server Health Template:icmpping.max(#3)}=0</expression>
+                                    <recovery_expression/>
+                                </dependency>
+                            </dependencies>
                             <tags/>
                         </trigger_prototype>
                         <trigger_prototype>
