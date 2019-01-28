@@ -62,7 +62,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -123,7 +122,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -184,7 +182,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -245,7 +242,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -306,7 +302,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -367,7 +362,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -428,7 +422,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -489,7 +482,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -550,7 +542,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -611,7 +602,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -672,7 +662,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -733,7 +722,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -794,7 +782,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -855,7 +842,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -916,7 +902,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -977,7 +962,6 @@
                         <name>Linux services</name>
                     </valuemap>
                     <logtimefmt/>
-                    <preprocessing/>
                     <jmx_endpoint/>
                     <timeout>3s</timeout>
                     <url/>
@@ -1001,6 +985,7 @@
                 </item>
             </items>
             <discovery_rules/>
+            <httptests/>
             <macros/>
             <templates/>
             <screens/>
